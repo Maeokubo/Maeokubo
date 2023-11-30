@@ -6,7 +6,7 @@
 
 
 - 🏢 Full stack developer in Tama, Tokyo 🇯🇵
-- 🧰 I build with: `JavaScript`, `Next.js`, `Tailwind`, `Ruby` `HTML`, `CSS` ...
+- 🧰 I build with: `JavaScript`, `React.js`, `Tailwind`, `Ruby` `HTML`, `CSS` ...
 - 🔮 I enjoy eating, sports and music 
 - 📫 Reach out to me: Okubo.mae@gmail.com
 - 🩵💚🩷 Bichota bebé 💯🎧💪🏼
