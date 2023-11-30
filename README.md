@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello, I'm Mae 
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/hazuki-okubo-8a8148262)
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/Maeokubo)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/okubo___?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr) 
+- 🏢 Full stack developer in Tama, Tokyo
+- 🧰 I build with: `JavaScript`, `Next.js`, `Tailwind`, `Ruby` `HTML`, `CSS` ...
+- ⚡ I enjoy eating, ride a bike and music 
+- 📫 Reach out to me: Okubo.mae@gmail.com
+- Bichota bebé 🩵💚🩷💯🎧
 
 <!--
 **Maeokubo/Maeokubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
