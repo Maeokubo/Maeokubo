@@ -8,11 +8,11 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/okubo___?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr) 
 
 
-**🌱 Hello, I'm Mae**
-#### 🏢 Full stack developer in Tama, Tokyo 🇯🇵
-#### 🔮 I enjoy eating, sports and music 
+###  🌱 Hello, I'm Mae
+#### 🏢 Full stack developer in Tama, Tokyo
+#### 🔮 I enjoy eating, sports and music
 #### 📫 Reach out to me: Okubo.mae@gmail.com
 #### Bichota bebé 💯🎧💪🏼
-##### Gracias, gracias. 
+##### Gracias, gracias.
 
 
