@@ -1,6 +1,11 @@
 # Front-End Developer | Learning Full Stack Web Development
-### 🧰 Technical Skills: `JavaScript`, `React.js`, `Tailwind CSS`, `Ruby` `HTML`, `CSS` ...
-### Education: [TechUp Thailand](https://www.techupth.com)
+### 🧰 Technical Skills: `JavaScript`, `React.js`, `Tailwind CSS`, `Ruby Foundations` `HTML`, `CSS` ...
+### Education
+-  Software Developer [TechUp Thailand](https://www.techupth.com)
+### Courses
+- HTML & CSS Full Course [Supersimple.Dev ](https://courses.supersimple.dev/certificates/qzbgzknxzv) 
+- Modern JavaScript From The Beginning 2.0 [traversymedia.com](https://www.traversymedia.com/modern-javascript-2-0) 
+- Ruby Foundations [Le wagon Tokyo]() 
 <br/>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hazuki-okubo-8a8148262/)
