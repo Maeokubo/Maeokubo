@@ -4,7 +4,7 @@
 -  Software Developer [TechUp Thailand](https://www.techupth.com)
 ### Courses
 - HTML & CSS Full Course [Supersimple.Dev ](https://courses.supersimple.dev/certificates/qzbgzknxzv) 
-- Modern JavaScript From The Beginning 2.0 [traversymedia.com](https://www.traversymedia.com/modern-javascript-2-0) 
+- Modern JavaScript From The Beginning 2.0 [Traversymedia.com](https://www.traversymedia.com/modern-javascript-2-0) 
 - Ruby Foundations [Le wagon Tokyo]() 
 <br/>
 
