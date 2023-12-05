@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Maeokubo&label=Profile%20views&color=F9629F&style=flat" alt="MaeOkubo" /> </p>
+
 # Front-End Developer | Learning Full Stack Web Development
 ### 🧰 Technical Skills: `JavaScript`, `React.js`, `Tailwind CSS`, `Ruby Foundations` `HTML`, `CSS` ...
 ### Education
@@ -19,5 +21,3 @@
 #### 📫 Reach out to me: Okubo.mae@gmail.com
 #### Bichota bebé 💯🎧💪🏼
 ##### Gracias, gracias.
-
-
