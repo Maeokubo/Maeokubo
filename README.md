@@ -2,12 +2,12 @@
 
 <p align="left">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=geometric&size=19&color=55E34A&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Hazuki+Okubo;Front-End+Junior;Learning+Full+Stack+Software+Development+💻;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=geometric&size=19&color=55E34A&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Hazuki+Okubo;Front-End+Junior;Learning+Full+Stack+Software+Development;" alt="Typing SVG" />
 </a>
     
 
     
-### 🧰 Tech & Tools:  `JavaScript`, `React.js`, `Tailwind CSS`, `Ruby Foundations` `HTML`, `CSS` ...
+### [<img src="https://github.com/Maeokubo/Maeokubo/blob/main/code.gif" height="18" width="28">]() Tech & Tools:  `JavaScript`, `React.js`, `Tailwind CSS`, `Ruby Foundations` `HTML`, `CSS` ...
 ### Education
 -  Software Developer [TechUp Thailand](https://www.techupth.com)
 ### Courses
@@ -16,7 +16,7 @@
 - Ruby Foundations [Le wagon Tokyo]() 
 <br/>
 
-[<img src="https://github.com/Maeokubo/Maeokubo/blob/main/code.gif" height="30">]() 
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hazuki-okubo-8a8148262/)
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/Maeokubo)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/okubo___?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr) 
