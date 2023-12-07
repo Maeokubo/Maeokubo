@@ -1,13 +1,13 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Maeokubo&label=Profile%20views&color=94bbe9&style=flat" alt="MaeOkubo" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Maeokubo&label=Profile%20views&color=70B26B&style=flat" alt="MaeOkubo" /> </p>
 
 <p align="left">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&color=22c1c3&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hazuki+Okubo;Front-End+Junior;Learning+Full+Stack+Software+Development+💻;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&color=55E34A&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hazuki+Okubo;Front-End+Junior;Learning+Full+Stack+Software+Development+ 💻;" alt="Typing SVG" />
 </a>
     
 
     
-### Tech & Tools <img src="https://github.com/Maeokubo/Maeokubo/blob/main/code.gif" height="20"> `JavaScript`, `React.js`, `Tailwind CSS`, `Ruby Foundations` `HTML`, `CSS` ...
+### Tech & Tools <img src="https://github.com/Maeokubo/Maeokubo/blob/main/code.gif" height="20">  `JavaScript`, `React.js`, `Tailwind CSS`, `Ruby Foundations` `HTML`, `CSS` ...
 ### Education
 -  Software Developer [TechUp Thailand](https://www.techupth.com)
 ### Courses
