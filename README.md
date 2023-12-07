@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&color=22c1c3&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hazuki+Okubo;Front-End+Developer;Learning+Full+Stack+Software+Development+💻;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&color=22c1c3&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hazuki+Okubo;Front-End+Junior;Learning+Full+Stack+Software+Development+💻;" alt="Typing SVG" />
 </a>
 
 ### 🧰 Technical Skills: `JavaScript`, `React.js`, `Tailwind CSS`, `Ruby Foundations` `HTML`, `CSS` ...
