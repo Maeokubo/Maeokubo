@@ -7,7 +7,7 @@
     
 
     
-### Tech & Tools <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="18"/> `JavaScript`, `React.js`, `Tailwind CSS`, `Ruby Foundations` `HTML`, `CSS` ...
+### Tech & Tools <img src="https://github.com/Maeokubo/Maeokubo/blob/main/code.gif" height="20"> `JavaScript`, `React.js`, `Tailwind CSS`, `Ruby Foundations` `HTML`, `CSS` ...
 ### Education
 -  Software Developer [TechUp Thailand](https://www.techupth.com)
 ### Courses
