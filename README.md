@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Maeokubo&label=Profile%20views&color=70B26B&style=flat" alt="MaeOkubo" /> </p>
 
 <p align="left">
-<a href="https://github.com/drkostas">
+<a href="https://github.com/Okubomae">
     <img src="https://readme-typing-svg.demolab.com?font=geometric&size=19&color=55E34A&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Hazuki+Okubo;Front-End+Junior;Learning+Full+Stack+Software+Development;" alt="Typing SVG" />
 </a>
     
