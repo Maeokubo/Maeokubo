@@ -17,7 +17,7 @@
 <br/>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hazuki-okubo-8a8148262/"><img src="https://raw.githubusercontent.com/twinji/twinji/master/icons/linkedin.svg" align="center" height="24"/></a>
+  <a href="https://www.linkedin.com/in/hazuki-okubo-8a8148262/"><img src="https://github.com/Maeokubo/Maeokubo/blob/main/github.svg" align="center" height="24"/></a>
   <span>&nbsp;</span>
   <a href="https://github.com/Maeokubo"><img src="https://raw.githubusercontent.com/twinji/twinji/master/icons/github.svg" align="center" height="24"/></a>
   <span>&nbsp;</span>
