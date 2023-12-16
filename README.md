@@ -16,15 +16,15 @@
 - Ruby Foundations [Le wagon Tokyo]() 
 <br/>
 
-<p align="left>
-  <a href="https://www.linkedin.com/in/hazuki-okubo-8a8148262/"><img src="https://github.com/Maeokubo/Maeokubo/blob/main/linkedin.svg" align="center" height="30"/></a>
+<p align="left">
+   <a href="https://www.linkedin.com/in/hazuki-okubo-8a8148262/"><img src="https://github.com/Maeokubo/Maeokubo/blob/main/linkedin.svg" align="center"height="30"/></a>
   <span>&nbsp;</span>
   <a href="https://github.com/Maeokubo"><img src="https://github.com/Maeokubo/Maeokubo/blob/main/github.svg" align="center"height="30"/></a>
   <span>&nbsp;</span>
-  <a href="https://instagram.com/okubo___?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr"><img             src="https://github.com/Maeokubo/Maeokubo/blob/main/instagram.svg" align="center"height="30"/></a>
+  <a href="https://instagram.com/okubo___?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr"><img src="https://github.com/Maeokubo/Maeokubo/blob/main/instagram.svg" align="center"height="30"/></a>
   <span>&nbsp;</span>
 </p> 
-🌸 🌸 🌸 🌸 🌸 🌸
+🀷🁛🀶🁖🁂🁇🀹🀽🁚🁟🁍🀱
 
 #### 🏢 Full stack developer in Tokyo, Japan
 #### 🔮 I enjoy eating, sports and music
