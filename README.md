@@ -7,7 +7,7 @@
     
 
     
-### [<img src="https://github.com/Maeokubo/Maeokubo/blob/main/code.gif" height="18" width="28">]() Tech & Tools:  `JavaScript`, `React.js`, `Tailwind CSS`, `Ruby Foundations` `HTML`, `CSS` ...
+#### [<img src="https://github.com/Maeokubo/Maeokubo/blob/main/code.gif" height="18" width="28">]() Tech & Tools:  `JavaScript`,`Vanilla JS`, `React.js`, `Tailwind CSS`, `Ruby Foundations` `HTML`, `CSS` ...
 ### Education
 -  Software Developer [TechUp Thailand](https://www.techupth.com)
 ### Courses
