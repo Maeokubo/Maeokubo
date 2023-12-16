@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Maeokubo&label=Profile%20views&color=70B26B&style=flat" alt="MaeOkubo" /> </p>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/Maeokubo">
     <img src="https://readme-typing-svg.demolab.com?font=geometric&size=19&color=55E34A&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Hazuki+Okubo;Front-End+Junior;Learning+Full+Stack+Software+Development;" alt="Typing SVG" />
 </a>
@@ -16,11 +16,15 @@
 - Ruby Foundations [Le wagon Tokyo]() 
 <br/>
 
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hazuki-okubo-8a8148262/)
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/Maeokubo)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/okubo___?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr) 
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/hazuki-okubo-8a8148262/"><img src="https://raw.githubusercontent.com/twinji/twinji/master/icons/linkedin.svg" align="center" height="24"/></a>
+  <span>&nbsp;</span>
+  <a href="https://github.com/Maeokubo"><img src="https://raw.githubusercontent.com/twinji/twinji/master/icons/github.svg" align="center" height="24"/></a>
+  <span>&nbsp;</span>
+  <a href="https://instagram.com/okubo___?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr"><img src="https://raw.githubusercontent.com/twinji/twinji/master/icons/instagram.svg" align="center"     height="24"/></a>
+  <span>&nbsp;</span>
+</p>
+<br/>
 
 #### 🏢 Full stack developer in Tokyo, Japan
 #### 🔮 I enjoy eating, sports and music
