@@ -21,10 +21,7 @@
   <span>&nbsp;</span>
   <a href="https://github.com/Maeokubo"><img src="https://github.com/Maeokubo/Maeokubo/blob/main/github.svg" align="center"height="30"/></a>
   <span>&nbsp;</span>
-  <a href="https://instagram.com/okubo___?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr"><img src="https://github.com/Maeokubo/Maeokubo/blob/main/instagram.svg" align="center"height="30"/></a>
-  <span>&nbsp;</span>
 </p> 
-🀷🁛🀶🁖🁂🁇🀹🀽🁚🁟🁍🀱
 
 #### 🏢 Full stack developer in Tokyo, Japan
 #### 🔮 I enjoy eating, sports and music
