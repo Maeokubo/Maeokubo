@@ -7,9 +7,9 @@
     
 
     
-#### [<img src="https://github.com/Maeokubo/Maeokubo/blob/main/code.gif" height="18" width="28">]() Tech & Tools:  `JavaScript`,`Vanilla JS`, `React.js`, `Tailwind CSS`, `Ruby Foundations` `HTML`, `CSS` ...
+#### [<img src="https://github.com/Maeokubo/Maeokubo/blob/main/code.gif" height="18" width="28">]() Tech & Tools: `JavaScript`, `React.js`, `TypeScript`, `Next.js`, `Tailwind CSS`, `Bootstrap`, `HTML`, `CSS`, `Vanilla JS`, `Node.js`, `Express.js`, `MongoDB`, `PostgreSQL`, `Supabase`, `MySQL`, `Firebase`, `Ruby Foundations`...
 ### Education
--  Software Developer [TechUp Thailand](https://www.techupth.com)
+-  Software Developer [TechUp](https://www.techupth.com)
 ### Courses
 - HTML & CSS Full Course [Supersimple.Dev ](https://courses.supersimple.dev/certificates/qzbgzknxzv) 
 - Modern JavaScript From The Beginning 2.0 [Traversymedia.com](https://www.traversymedia.com/modern-javascript-2-0) 
